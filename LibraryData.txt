@@ -1,0 +1,7 @@
+English|To Kill a Mockingbird|Harper Lee|Rack 3|false|9012
+English|Pride and Prejudice|Jane Austen|Rack 2|false|5678
+Programming|C++ Programming|Bjarne Stroustrup|Rack 1|false|1234
+Development|Clean Code|Robert C. Martin|Rack 2|true|0
+Architecture|Design Patterns|Erich Gamma|Rack 3|true|0
+gdhghsdj|aghsvadh|ghsgdh|Rack 1|true|0
+hahah|hahah|hahah|Rack 1|true|0
